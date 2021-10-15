@@ -1,4 +1,6 @@
-theme: minima
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: The Saddest SysAdmin Blog
 author: erpderp32
 email: erpderp32@gmail.com
