@@ -1,3 +1,3 @@
 ---
-title: The Saddest SysAdmin
+
 ---
