@@ -1,0 +1,11 @@
+theme: minima
+title: The Saddest SysAdmin Blog
+author: erpderp32
+email: erpderp32@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+ Working through the struggles of a "make it work" system and wishing for the best
+# social links
+twitter_username: erpderp32 # DO NOT include the @ character, or else the build will fail!
+github_username:  erpderp32 # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
